@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Sender Name": "AT61 1904 3002 3457 3201"
+    }
+  ],
+  "value": [
+    {
+      "id": 1,
+      "body": "90.00",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "04.09.2020",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "Insured AG",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "INV4711",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Our Demo Bank"
+  }
+}
