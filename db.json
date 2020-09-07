@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Sender Name": "FR14 2004 1010 0505 0001 3M02 606"
+    }
+  ],
+  "value": [
+    {
+      "id": 1,
+      "body": "90.00",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "04.09.2020",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "Adjoint Treasury",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "FR1450055",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "INPI"
+  }
+}
